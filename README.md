@@ -20,8 +20,8 @@ Compared with matrix low-rank methods (LoRA, PiSSA) and other tensor methods
 ## Install
 
 ```bash
-git clone https://github.com/jzheng20/ReFTA.git
-cd ReFTA
+git clone https://github.com/jzheng20/CVPR2026-ReFTA.git
+cd CVPR2026-ReFTA
 pip install -r requirements.txt          # torch, transformers, numpy, scipy, tqdm
 ```
 
